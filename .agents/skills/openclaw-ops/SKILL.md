@@ -1,10 +1,6 @@
 ---
 name: openclaw-ops
 description: Manage, configure, troubleshoot, and operate an OpenClaw personal AI assistant instance. Use when asked to check status, manage channels, configure models, install skills, debug gateway issues, or perform any OpenClaw administration.
-emoji: 🦞
-requires:
-  bins:
-    - openclaw
 ---
 
 # OpenClaw Operations
